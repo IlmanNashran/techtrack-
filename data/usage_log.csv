@@ -1,0 +1,4 @@
+log_id,item_id,item_name,technician,action,timestamp,notes
+F66DEECC,ITM-33B8F82D,pisau,Ahmad Technician,CHECK OUT,2026-02-23 12:10,guna jap
+BD3A105F,ITM-33B8F82D,pisau,Ahmad Technician,RETURN,2026-02-23 12:10,guna jap
+EF80C3EA,ITM-33B8F82D,pisau,Ahmad Technician,CHECK OUT,2026-02-23 12:10,guna jap
